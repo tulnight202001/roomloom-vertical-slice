@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1785384397|5842356';
+const CACHE_VERSION = '1785389071|9035891';
 /** @type {string} */
 const CACHE_PREFIX = 'Roomloom Dollhou-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
